@@ -58,13 +58,13 @@ const Navbar = () => {
             )}
             <button
               type="button"
-              className=" border-2 p-2 rounded-full cursor-pointer outline-none shadow-md"
+              className="border-2 w-10 h-10 p-2 rounded-full cursor-pointer outline-none shadow-md"
               onClick={() => {
                 googleLogout();
                 removeUser();
               }}
             >
-              <AiOutlineLogout color="red" fontSize={21} />
+              <AiOutlineLogout color="red" fontSize={20} />
             </button>
           </div>
         ) : (
