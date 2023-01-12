@@ -151,7 +151,7 @@ const Upload = () => {
             type="text"
             value={caption}
             onChange={(e) => setCaption(e.target.value)}
-            className="rounded lg:after:w-650 outline-none text-md border-2 border-gray-200 p-2"
+            className="rounded xl:w-650 outline-none text-md border-2 border-gray-200 p-2"
           />
           <label className="text-md font-medium ">Choose a topic</label>
 
@@ -159,7 +159,7 @@ const Upload = () => {
             onChange={(e) => {
               setCategory(e.target.value);
             }}
-            className="outline-none lg:w-650 border-2 border-gray-200 text-md capitalize lg:p-4 p-2 rounded cursor-pointer"
+            className="outline-none xl:w-650 border-2 border-gray-200 text-md capitalize lg:p-4 p-2 rounded cursor-pointer"
           >
             {topics.map((topic) => (
               <option
