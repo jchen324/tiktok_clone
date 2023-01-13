@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The application has been deployed on https://tiktok-clone-jchen324.vercel.app.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The application has been deployed on https://tiktok-clone-one-sigma.vercel.app/.
 
 ## Getting Started
 
