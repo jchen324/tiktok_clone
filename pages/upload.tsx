@@ -113,7 +113,7 @@ const Upload = () => {
                     <div className="flex flex-col items-center justify-center h-full">
                       <div className="flex flex-col justify-center items-center">
                         <p className="font-bold text-xl">
-                          <FaCloudUploadAlt className="text-gray-300 text-6xl" />
+                          <FaCloudUploadAlt className="text-gray-300 text-6xl"/>
                         </p>
                         <p className="text-xl font-semibold">Upload Video</p>
                       </div>
