@@ -73,7 +73,7 @@ const Navbar = () => {
               </button>
             </Link>
             {user.image && (
-              <Link href="/">
+              <Link href={`/profile/${user._id}`}>
                 <div>
                   <Image
                     className="rounded-full cursor-pointer"
